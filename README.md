@@ -1,2 +1,2 @@
-# GCSO-project-20
-just enjoy!!!
+# p5.play-boilerplate
+Boiler plate for p5.play
